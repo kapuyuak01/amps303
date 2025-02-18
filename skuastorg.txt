@@ -29,6 +29,7 @@
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4UK5KJU05URnHYOc0TxPPneA4Q3rnVM3Mm39cpkB7SihnxnZVsyS_F7lUGTimmnjqj0lGp0_XEYsAFfyD9FpUU8_xAjgoQHI4hvtwsWTG84Qcz0AOsXaklkZZC6s_DwMOO_2XWyJSx-Q7qMq8ghAWC3eKo6aCRERDa9JeZYbPcUWGXxlEmhJYSA7GEgra/s1600/icon-rupiahtoto.png" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <link rel="canonical" itemprop="mainEntityOfPage" href="https://skuast.org/" />
+    <link rel="amphtml" href="https://amps303-login.pages.dev/ampskuastorg.html" />
     <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4UK5KJU05URnHYOc0TxPPneA4Q3rnVM3Mm39cpkB7SihnxnZVsyS_F7lUGTimmnjqj0lGp0_XEYsAFfyD9FpUU8_xAjgoQHI4hvtwsWTG84Qcz0AOsXaklkZZC6s_DwMOO_2XWyJSx-Q7qMq8ghAWC3eKo6aCRERDa9JeZYbPcUWGXxlEmhJYSA7GEgra/s1600/icon-rupiahtoto.png" />
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
